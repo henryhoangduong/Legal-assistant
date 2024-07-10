@@ -1,3 +1,3 @@
 ### Paper ###
-#### Surve ####
+#### Survey ####
 ### Source code ###
